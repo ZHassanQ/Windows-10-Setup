@@ -1,7 +1,6 @@
 # WINDOWS-10-Setup
-This repository contains every main app to install and/or to do in WINDOWS 10 after installation process.
+This repository contains every main app to install and/or to do in WINDOWS 10 after installation process. Please note i did not make any of these apps any mentioned app will be linked to it original source so you can get an up-to-date verison of the app you want.
 
-Please note i did not make any of these apps any mentioned app will be linked to it original source so you can get an up-to-date verison of the app you want.
 
 ## Recommended Apps
 
@@ -31,3 +30,4 @@ Please note i did not make any of these apps any mentioned app will be linked to
 - [PSCX2 Compatibility List](https://pcsx2.net/compat)
 - [RPSC3 Compatibility List](https://rpcs3.net/compatibility)
 - [SteamDB](https://steamdb.info)
+- [Wiki Settings](https://github.com/ZHassanQ/WINDOWS-10-Setup/wiki)
