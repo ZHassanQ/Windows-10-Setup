@@ -25,7 +25,7 @@ Please note i did not make any of these apps any mentioned app will be linked to
 - [VLC Media Player](https://www.videolan.org/vlc/) A free and open-source cross-platform multimedia player and framework that plays most multimedia files.
 
 
-# Recommended Websites
+## Recommended Websites
 
 - [Ninite](https://ninite.com/)
 - [PSCX2 Compatibility List](https://pcsx2.net/compat)
