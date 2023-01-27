@@ -11,7 +11,7 @@ This repository contains every main app to install and/or to do in WINDOWS 10 af
 - [Discord](https://discord.com) A VoIP and instant messaging social platform.
 - [Epic Games Store](https://store.epicgames.com/en-US/) A digital video game storefront for Microsoft Windows and macOS.
 - [FileZiila](https://filezilla-project.org) A free and open-source, cross-platform FTP application.
-- [Google Browser](https://www.google.com/chrome/) A cross-platform web browser developed by Google.
+- [Google Chrome](https://www.google.com/chrome/) A cross-platform web browser developed by Google.
 - [MSI Afterburner & Rivetuner](https://www.msi.com/Landing/afterburner/graphics-cards) RivaTuner is a freeware overclocking and hardware monitoring program.
 - [NVIDIA Geforce Experience](https://www.nvidia.com/en-me/geforce/) The super essential companion to your GeForce graphics card.
 - [Optimizer](https://github.com/hellzerg/optimizer) The finest Windows Optimizer.
