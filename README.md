@@ -5,6 +5,7 @@ This repository contains every main app to install and/or to do in WINDOWS 10 af
 ## Recommended Apps
 
 - [AMD Adrenaline](https://www.amd.com/en/technologies/software) An interface for your AMD products where you can access software features, game stats, driver updates & more.
+- [Battle.net](https://us.shop.battle.net/en-us) Your one stop shop into the world of Blizzard and Activision.
 - [Brave Browser](https://brave.com) A free and open-source web browser developed by Brave Software, Inc.
 - [CompactGUI](https://github.com/IridiumIO/CompactGUI) Transparently compress active games and programs using Windows 10/11 APIs.
 - [Discord](https://discord.com) A VoIP and instant messaging social platform.
@@ -15,6 +16,7 @@ This repository contains every main app to install and/or to do in WINDOWS 10 af
 - [NVIDIA Geforce Experience](https://www.nvidia.com/en-me/geforce/) The super essential companion to your GeForce graphics card.
 - [Optimizer](https://github.com/hellzerg/optimizer) The finest Windows Optimizer.
 - [PCSX2](https://pcsx2.net) A free and open-source PlayStation 2 emulator.
+- [Riot Client](https://www.riotgames.com/en) Your one stop shop into the games from Riot Games.
 - [Rockstar Games Launcher](https://socialclub.rockstargames.com/rockstar-games-launcher) Play the latest Rockstar Games PC titles.
 - [RPSC3](https://rpcs3.net) A free and open-source video game console emulator and debugger for the Sony PlayStation 3.
 - [Rufus](https://rufus.ie/en/) A utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.
