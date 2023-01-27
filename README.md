@@ -1,5 +1,5 @@
 # Windows-10-Setup
-This repository contains every main app to install and/or to do in Windows 10 after installation process. Please note i did not make any of these apps any mentioned app will be linked to it original source so you can get an up-to-date verison of the app you want. Also there is a [Wiki](https://github.com/ZHassanQ/Windows-10-Setup/wiki) that helps you configure Windows 10 [Settings]() and [Apps]() settings.
+This repository contains every main app to install and/or to do in Windows 10 after installation process. Please note i did not make any of these apps any mentioned app will be linked to it original source so you can get an up-to-date verison of the app you want. Also there is a [Wiki](https://github.com/ZHassanQ/Windows-10-Setup/wiki) that helps you configure Windows 10 [Settings](https://github.com/ZHassanQ/Windows-10-Setup/wiki/Settings) and [Apps]() settings.
 
 
 ## Recommended Apps
