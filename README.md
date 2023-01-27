@@ -5,7 +5,7 @@ Please note i did not make any of these apps any mentioned app will be linked to
 
 ## Recommended Apps
 
-- [AMD Adrenaline Edition](https://www.amd.com/en/technologies/software) An easy-to-use interface for your AMD products where you can access software features, game stats, driver updates & more.
+- [AMD Adrenaline](https://www.amd.com/en/technologies/software) An easy-to-use interface for your AMD products where you can access software features, game stats, driver updates & more.
 - [Brave Browser](https://brave.com) A free and open-source web browser developed by Brave Software, Inc.
 - [CompactGUI](https://github.com/IridiumIO/CompactGUI) Transparently compress active games and programs using Windows 10/11 APIs.
 - [Discord](https://discord.com) A VoIP and instant messaging social platform.
