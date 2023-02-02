@@ -6,6 +6,7 @@ This repository contains every main app to install and/or to do in Windows 10 af
 
 - [AMD Adrenaline](https://www.amd.com/en/technologies/software) An interface for your AMD products where you can access software features, game stats, driver updates & more.
 - [Battle.net](https://us.shop.battle.net/en-us) Your one stop shop into the world of Blizzard and Activision.
+- [BloatBox](https://github.com/builtbybel/bloatbox) ballot_box_with_checkstars Remove Bloatwares from Windows 10.
 - [Brave Browser](https://brave.com) A free and open-source web browser developed by Brave Software, Inc.
 - [CompactGUI](https://github.com/IridiumIO/CompactGUI) Transparently compress active games and programs using Windows 10/11 APIs.
 - [Discord](https://discord.com) A VoIP and instant messaging social platform.
